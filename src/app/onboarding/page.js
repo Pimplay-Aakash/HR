@@ -1,12 +1,12 @@
 import CompanyDetails from '@/components/onboarding/CompanyDetails'
 import Onboarding from '@/components/onboarding/Onboarding'
-import React from 'react'
+// import React, { useState } from 'react';
 
 const page = () => {
   return (
     <div>
-      <Onboarding/>
-      {/* <CompanyDetails/> */}
+      {/* <Onboarding/> */}
+      <CompanyDetails/>
     </div>
   )
 }

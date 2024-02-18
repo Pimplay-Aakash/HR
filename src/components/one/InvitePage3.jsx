@@ -1,11 +1,10 @@
+"use client"
 import React,{useState} from 'react'
 import { Button, Modal } from 'antd';
 
 const InvitePage3 = () => {
   return (
     <>
-
-
 
     <div className='flex justify-center items-center'>
     <div className='flex flex-col items-center  bg-gray-300 w-[45vw]'>
