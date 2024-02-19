@@ -9,7 +9,7 @@ import AllProjects from './AllProjects';
 
 
 const LeftNav = () => {
-  const [tabPosition, setTabPosition] = useState('left');
+  // const [tabPosition, setTabPosition] = useState('left');
   const [activeTab, setActiveTab] = useState('1');
 
   const tabContents = {

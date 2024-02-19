@@ -40,7 +40,6 @@ const page = () => {
             <div className='flex gap-4'>
                 <EquipmentCard/>
                 <EquipmentCard/>
-
             </div>
             
         </div>
