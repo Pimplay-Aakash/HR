@@ -8,7 +8,7 @@ import { RiEditFill } from "react-icons/ri";
 
 const page = () => {
   return (
-    <div className='p-10 bg-gray-400'>
+    <div className='p-10 bg-gray-200'>
         <div className='w-full mb-5 p-5 bg-white'>
             <div className='flex justify-between w-full mb-4'>
                 <p className='font-medium text-xl'>Personal Information</p>
