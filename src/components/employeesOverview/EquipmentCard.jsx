@@ -3,7 +3,7 @@ import { MdKeyboard } from "react-icons/md";
 
 const EquipmentCard = () => {
   return (
-    <div className='flex flex-col justify-between w-[30%] border border-gray-300 p-4'>
+    <div className='flex flex-col justify-between w-[32%] border border-gray-300 p-4'>
         <span className='flex gap-10 mb-4 items-center justify-between'>
             <span className='flex items-center gap-3'>
                 <MdKeyboard  className='bg-[#BAE7FF] w-8 h-8 p-2 rounded-full'/>
